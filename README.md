@@ -6,3 +6,5 @@ Miner Zombies spawn between layers 40 and -16 below the surface, in groups of 2 
 ❤️ Health: 30-40 | ⚔️ Attack: 3 | ✨ EXP: 7
 
 This addon is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and its available in english and español. 🇬🇧 🇲🇽
+
+![Miner Zombie MCBE Add-on by El Oso Arcade](https://media.forgecdn.net/attachments/1608/425/135815-png.png)
