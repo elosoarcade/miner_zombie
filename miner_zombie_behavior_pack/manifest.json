@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Miner Zombie (B)",
+		"description": "Add Miner Zombies to Bedrock by El Oso Arcade",
+		"uuid": "e3413a9c-5910-38d6-7078-32a739babb37",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["El Oso Arcade"],
+		"license": "CC BY-NC-ND 4.0 - Miner Zombie MCBE Add-on",
+		"product_type": "addon",
+		"url": "https://github.com/elosoarcade/miner_zombie"
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "1931994d-4b7b-bda3-f0bb-bc49d8bd0c60",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "3642e512-21cd-7461-a4c2-b3cf2d8c0918",
+			"version": [1, 0, 0]
+		}
+	]
+}
