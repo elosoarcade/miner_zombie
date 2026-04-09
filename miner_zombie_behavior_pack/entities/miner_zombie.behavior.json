@@ -126,7 +126,7 @@
 			},
 			"minecraft:attack": {
 			  "effect_name": "mining_fatigue",
-        "effect_duration": 60,
+        "effect_duration": 30,
 				"damage": 3
 			},
 			"minecraft:loot": {
@@ -156,10 +156,10 @@
 				"goal_radius": 1.14,
 				"interval": 20
 			},
-			"minecraft:behavior.random_stroll": {
-				"priority": 7,
-				"speed_multiplier": 1
-			},
+		"minecraft:behavior.random_stroll": {
+			"priority": 7,
+			"speed_multiplier": 1
+		},
 			"minecraft:behavior.look_at_player": {
 				"priority": 8,
 				"look_distance": 6,

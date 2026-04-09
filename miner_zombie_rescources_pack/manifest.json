@@ -4,7 +4,7 @@
 		"name": "Miner Zombie (R)",
 		"description": "Add Miner Zombies to Bedrock by El Oso Arcade",
 		"uuid": "3642e512-21cd-7461-a4c2-b3cf2d8c0918",
-		"version": [1, 0, 0],
+		"version": [1, 5, 0],
 		"min_engine_version": [1, 16, 0]
 	},
 	"metadata": {
@@ -18,7 +18,7 @@
 			"description": "Miner Zombie",
 			"type": "resources",
 			"uuid": "ab3a78c0-ee1c-72ff-2b99-eb822c2eae5a",
-			"version": [1, 0, 0]
+			"version": [1, 5, 0]
 		}
 	]
 }
