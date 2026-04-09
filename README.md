@@ -7,4 +7,4 @@ Miner Zombies spawn between layers 40 and -16 below the surface, in groups of 2 
 
 This add-on is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and it's available in english, español, português, русский, 日本語, 한국어, and 中文. 🇬🇧 🇲🇽 🇧🇷 🇷🇺 🇯🇵 🇰🇷 🇨🇳
 
-![Miner Zombie MCBE Add-on by El Oso Arcade](https://media.forgecdn.net/attachments/1608/425/135815-png.png)
+![Miner Zombie MCBE Add-on by El Oso Arcade](https://media.forgecdn.net/attachments/1623/995/136263-png.png)
