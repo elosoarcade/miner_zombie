@@ -88,7 +88,12 @@
         "minecraft:variant": {
           "value": 1
         }
-      }
+      },
+      "miner_zombie_variant_2": {
+        "minecraft:variant": {
+          "value": 2
+        }
+      }      
     },
     "components": {
       "minecraft:variant": {
@@ -270,11 +275,17 @@
                 }
               },
               {
-                "weight": 50,
+                "weight": 30,
                 "add": {
                   "component_groups": ["miner_zombie_variant_1"]
                 }
-              }
+              },
+              {
+                "weight": 20,
+                "add": {
+                  "component_groups": ["miner_zombie_variant_2"]
+                }
+              }              
             ]
           },
           {
