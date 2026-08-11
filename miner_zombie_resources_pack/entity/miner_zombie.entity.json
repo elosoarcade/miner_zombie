@@ -10,7 +10,8 @@
          "textures":{
             "miner_zombie_0":"textures/entity/miner_zombie_1",
             "miner_zombie_1":"textures/entity/miner_zombie_2",
-            "miner_zombie_2":"textures/entity/miner_zombie_3"            
+            "miner_zombie_2":"textures/entity/miner_zombie_3",
+            "miner_zombie_3":"textures/entity/miner_zombie_4"              
          },
          "geometry":{
             "default":"geometry.miner_zombie"

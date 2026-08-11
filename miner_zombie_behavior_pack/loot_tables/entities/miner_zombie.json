@@ -27,23 +27,28 @@
         {
           "type": "item",
           "name": "minecraft:raw_iron",
-          "weight": 10
+          "weight": 9
         },
         {
           "type": "item",
           "name": "minecraft:raw_gold",
-          "weight": 5
+          "weight": 4
         },
         {
           "type": "item",
           "name": "minecraft:diamond",
-          "weight": 3
+          "weight": 2
         },
         {
           "type": "item",
           "name": "minecraft:emerald",
-          "weight": 2
-        }
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:amethyst_shard",
+          "weight": 4
+        }        
       ]
     }
   ]
