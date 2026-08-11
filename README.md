@@ -9,4 +9,4 @@ Miner Zombies spawn between layers 40 and -16 below the surface, in groups of 2 
 
 _This add-on is optimized to run effectively on Realms and dedicated servers with minimal hardware resource consumption and it's available in english, español, português_,日本語, 한국어, and 中文. 🇬🇧 🇲🇽 🇧🇷 🇯🇵 🇰🇷 🇨🇳
 
-<img width="1200" height="675" alt="miner-cover_20260716_185423_0000" src="https://github.com/user-attachments/assets/1cc56d0e-9caf-4096-9504-5e709524502c" />
+<img width="1200" height="675" alt="miner-cover_20260810_205039_0000" src="https://github.com/user-attachments/assets/dc355dc8-9645-4395-ac6f-1cfa4e498651" />
